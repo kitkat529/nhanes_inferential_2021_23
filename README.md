@@ -15,3 +15,5 @@
 #### Question 3: How do age and marital status affect systolic blood pressure?: 2-Way ANOVA
 ##### Question 4: Is there a correlation between self reported weight and minutes of sedentary behavior?: Regression
 ###### Question 5: Is there an association between diabetes and weak or failing kidneys?: Chi-square
+
+## Tests were performed using both Python and R to compare results
